@@ -27,9 +27,4 @@ After completing the design and logic, the developer used the MIT AI2 Companion 
 
 **OUTPUT**:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/28ebe0ba-d6e4-4334-8933-2a022ff75ea8" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1de874ae-ccaf-47b0-86ab-32690f02edc5" />
-![Image](https://github.com/user-attachments/assets/b1e99393-b3b7-4d72-99dc-ca573ce7b6bc)
-![Image](https://github.com/user-attachments/assets/6af41789-ba1a-4a71-acbb-8e130b4b1d66)
-![Image](https://github.com/user-attachments/assets/46fdf241-f658-43c5-962f-66f685685f3b)
-
-
 
