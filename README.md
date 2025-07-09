@@ -24,3 +24,11 @@ Optionally, a Text-to-Speech component for feedback.
 Each component was added intentionally by the developer based on the purpose and design of the app.
 The real logic of the app was created in the Blocks Editor section. Here, the developer dragged and connected visual code blocks to define how the app would behave when the user interacts with it. 
 After completing the design and logic, the developer used the MIT AI2 Companion app or an emulator to test the app on a real Android device. This allowed them to observe how accurately the app could recognize speech. If there were errors or unexpected results (like misheard words), the developer went back to the blocks section to refine the logic or change the interface.
+
+**OUTPUT**:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/28ebe0ba-d6e4-4334-8933-2a022ff75ea8" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3b115cba-3e7f-456b-b542-d27aa7b1045e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1de874ae-ccaf-47b0-86ab-32690f02edc5" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d481dc27-9760-421f-a852-22e59f4b97b0" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c8cb1204-9da1-4e3e-9603-8d99a14321f3" />
+
