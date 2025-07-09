@@ -26,9 +26,10 @@ The real logic of the app was created in the Blocks Editor section. Here, the de
 After completing the design and logic, the developer used the MIT AI2 Companion app or an emulator to test the app on a real Android device. This allowed them to observe how accurately the app could recognize speech. If there were errors or unexpected results (like misheard words), the developer went back to the blocks section to refine the logic or change the interface.
 
 **OUTPUT**:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/28ebe0ba-d6e4-4334-8933-2a022ff75ea8" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3b115cba-3e7f-456b-b542-d27aa7b1045e" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1de874ae-ccaf-47b0-86ab-32690f02edc5" />
+![Image](https://github.com/user-attachments/assets/b1e99393-b3b7-4d72-99dc-ca573ce7b6bc)
+![Image](https://github.com/user-attachments/assets/6af41789-ba1a-4a71-acbb-8e130b4b1d66)
+![Image](https://github.com/user-attachments/assets/46fdf241-f658-43c5-962f-66f685685f3b)
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d481dc27-9760-421f-a852-22e59f4b97b0" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c8cb1204-9da1-4e3e-9603-8d99a14321f3" />
+
 
